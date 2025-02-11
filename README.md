@@ -1,2 +1,3 @@
-# Estructura-de-datos-arreglos
-Estructura de datos arreglos
+Cuando ejecutes este programa se vera que lo primero que pasa es que te pide ingresar el número de alumnos y materias y una vez que ingresas esos datos, el programa genera aleatoriamente las calificaciones de todos los alumnos para todas las materias, y las muestra en una tabla organizada, con las filas representando a cada alumno y las columnas a cada materia. Es como si fuera una hoja de calificaciones.
+Después de que se muestra toda la tabla se puede buscar la calificación de un alumno en una materia específica. Si ingresas un número de alumno o materia que está dentro del rango que definiste, el programa te muestra la calificación correspondiente. Pero si pones un número fuera de rango, te avisa que hubo un error.
+Algo interesante es que el programa también mide cuánto tiempo tardo en ejecutarse todo, desde que empezó hasta que termino y te muestra ese tiempo al final.
